@@ -1,0 +1,61 @@
+.navbar-inverse
+  {
+   background-color:#B0C4DE; 
+   color:#DC143C;
+   border:0;
+   font-size:12px;
+   letter-spacing: 4px;
+   
+ }
+ .navbar-inverse .navbar-nav
+ {
+   color: #F0F8FF;
+ }
+ .navbar-inverse .navbar-nav li a:hover
+ {
+   color: #fc8a5d;
+   background-color: #00FFFF;
+ }
+ .navbar-inverse .navbar-nav li.active a
+ {
+  color: #006400;
+  background-color:#1E90FF ;
+}
+.footer
+{
+  height: 50px;
+  margin-top: 10px;
+  background-color: #C0C0C0;
+  width:100%;
+  color: #8B0000;
+}
+#x
+{
+  background-color:#FAEBD7; 
+  border:1px solid #F5F5DC;
+  border-style:outset;
+  height: 200px;
+}
+body
+{
+  background-color:#F0FFF0;
+  color: #8B4513;
+}
+form
+{
+  margin-top: 10px;
+}
+.success
+{
+color: #3CB371;
+}
+.info
+{
+color:#FF1493;
+font-family:MathJax_Caligraphic;
+}
+#S
+{
+  color: #FFFF00;
+  font-family:  MathJax_Script;
+}
